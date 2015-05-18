@@ -618,7 +618,7 @@
       return result;
     },
 
-    stats: stats,
+    stats: stats
   };
 
   if(typeof module !== "undefined" && module.exports) {
